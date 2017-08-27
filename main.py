@@ -13,4 +13,4 @@ with open('data/poi.csv', 'r') as csvfile:
         folium.Marker([mark['Latitude'], mark['Longitude']],
                       popup=mark['Facility']).add_to(MAP)
 
-MAP.save('index.html')
+MAP.save('docs/index.html')
