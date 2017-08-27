@@ -1,0 +1,244 @@
+OBJECTID,id,Class,Location,Facility,Sub_Class,Class_2,Longitude,Latitude
+1,,Recreation Facility,471 Albert Street,YMCA,Community Center,Community Center,-66.6495972,45.9528427
+3,S4,Educational Facility,39 Carmen Avenue,Barkers Point Elementary,Elementary,School,-66.6180191,45.9526672
+4,S5,Educational Facility,184 Connaught Street,Connaught Street Elementary,Elementary,School,-66.6566010,45.9553909
+5,S6,Educational Facility,681 Dobie Street,Devon Middle,Middle,School,-66.6247101,45.9681740
+6,S7,Educational Facility,129 McAdam Avenue,McAdam Avenue Elementary,Elementary,School,-66.6763611,45.9816322
+7,S8,Educational Facility,340 Royal Road,Royal Road Elementary,Elementary,School,-66.6707993,45.9963379
+8,S9,Educational Facility,80 Main Street,Nashwaaksis Memorial School,Elementary,School,-66.6600189,45.9805832
+9,S10,Educational Facility,111 Park Street,Park Street Elementary,Elementary,School,-66.6468048,45.9810143
+10,S11,Educational Facility,778 MacLaren Avenue,Fredericton Christian Academy,K - 12,School,-66.6190338,45.9650726
+11,S12,Educational Facility,693 Montgomery Street,Montgomery Street Elementary,Elementary,School,-66.6505356,45.9435196
+12,S13,Educational Facility,548 Forest Hill Road,Forest Hill Elementary,Elementary,School,-66.6328430,45.9360695
+13,S14,Educational Facility,363 Priestman Street,Priestman Street Elementary,Elementary,School,-66.6610336,45.9435997
+14,S15,Educational Facility,1360 Woodstock Road,Garden Creek Elementary,Elementary,School,-66.7035751,45.9647217
+15,S16,Educational Facility,324 Fulton Avenue,Nashwaaksis Middle,Middle,School,-66.6423874,45.9852791
+16,S17,Educational Facility,575 George Street,George Street Middle,Middle,School,-66.6413651,45.9587898
+17,S18,Educational Facility,499 Cliffe Street,Leo Hayes High,High,School,-66.6216736,45.9791145
+18,S19,Educational Facility,300 Priestman Street,Fredericton High,High,School,-66.6626663,45.9416580
+19,S20,Educational Facility,715 Priestman Street,École Sainte-Anne,French,School,-66.6530151,45.9417992
+20,S21,Educational Facility,51 Dineen Drive,St. Thomas University,University,University,-66.6460495,45.9442940
+21,S22,Educational Facility,29 Dineen Drive,University Of New Brunswick - Fredericton Campus,University,University,-66.6417389,45.9464951
+22,S23,Educational Facility,284 Smythe Street,NBCC - Woodstock (Fredericton Campus),College,College,-66.6533051,45.9614296
+23,S24,Educational Facility,457 Queen Street,New Brunswick College of Craft and Design,College,College,-66.6413574,45.9628487
+24,S25,Educational Facility,1115 Regent Street,Atlantic Business College,Business & Tech School,College,-66.6575775,45.9401360
+25,S26,Educational Facility,415 King Street,Center for Arts and Technology Atlantic Canada,Business & Tech School,College,-66.6419449,45.9604454
+26,S27,Educational Facility,121 Main Street,Edison Institute of Nutrition (EIN),Business & Tech School,College,-66.6554031,45.9793701
+27,S28,Educational Facility,334 Queen St,Horizon College,Business & Tech School,College,-66.6448288,45.9633408
+28,S29,Educational Facility,1350 Regent Street,The Maritime College of Forest Technology,College,College,-66.6569901,45.9333916
+29,S30,Educational Facility,17 McGloin Street,Northeast Christian College,Business & Tech School,College,-66.5899734,45.9775925
+30,S31,Educational Facility,1149 Smythe St,Yorkville University,University,University,-66.6688843,45.9439621
+31,S33,Educational Facility,50 Liverpool Street ,Liverpool Street Elementary,Elementary,School,-66.6414185,45.9319916
+33,S35,Educational Facility,7 Carlisle Cross Road   ,Douglas Elementary,Elementary,School,-66.7435150,45.9806023
+34,B1,Recreation Facility,39 Royal Road,Royal Road,Baseball,Baseball,-66.6648865,45.9864044
+35,B4,Recreation Facility,60 Morrison Street,Royals Back,Baseball,Baseball,-66.5880890,45.9840698
+36,B5,Recreation Facility,118 Johnston Avenue,Johnston Field,Softball,Softball,-66.6604004,45.9782333
+37,B7,Recreation Facility,138 Johnston Avenue,Dunham Field,Baseball,Baseball,-66.6601563,45.9767036
+38,B8,Recreation Facility,518 Forest Hill Road,Forest Hill Field,Baseball,Baseball,-66.6321106,45.9366989
+39,B9,Recreation Facility,Sewell Street,Henry Park B,Softball,Softball,-66.6218262,45.9638863
+40,B10,Recreation Facility,Sewell Street,Henry Park T-Ball,T-Ball,T-Ball,-66.6197052,45.9641418
+41,B11,Recreation Facility,695 Prospect Street,Prospect Street Upper,Softball,Softball,-66.6826172,45.9487000
+42,B6,Recreation Facility,118 Johnston Avenue,Tingley Field,Baseball,Baseball,-66.6595459,45.9778862
+43,B13,Recreation Facility,380 Saint John Street,Queen Square B,Baseball,Baseball,-66.6414642,45.9536552
+44,B15,Recreation Facility,1035 Smyth,Thompson Field,Baseball,Baseball,-66.6695480,45.9473076
+45,B16,Recreation Facility,605 Kimble Road,Kimble Field,Softball,Softball,-66.6315002,45.9305611
+46,B17,Recreation Facility,1900 Lincoln Road,Lincoln,Softball,Softball,-66.5791168,45.9034081
+47,B3,Recreation Facility,60 Morrison Street,Royals Senior,,Baseball,-66.5878830,45.9827309
+48,B18,Recreation Facility,81 Carrington,McLoon Field,,Baseball,-66.6418533,45.9862556
+49,B2,Recreation Facility,60 Morrison Street,Royals Field (Front),,Baseball,-66.5866394,45.9821548
+50,B19,Recreation Facility,Sewell Street,Henry Park Skateboard Park,,Baseball,-66.6210861,45.9644661
+51,B20,Recreation Facility,129 Macadam Avenue,MacAdam Avenue,,Softball,-66.6772919,45.9815178
+52,B12,Recreation Facility,695 Prospect Street,Prospect Street Lower,,Softball,-66.6815414,45.9495049
+53,B14,Recreation Facility,785 McLeod Avenue,Queen Square A,,Baseball,-66.6404877,45.9526405
+54,B21,Recreation Facility,265 Waterloo Row,Morell park ,,Baseball,-66.6331024,45.9482422
+55,B22,Recreation Facility,157 Limerick Road,Southwood,,Softball,-66.6249390,45.9233475
+56,B23,Recreation Facility,Noble Street,Malloy Field,,Baseball,-66.6152954,45.9670219
+57,B24,Recreation Facility,99 Noble Street,Fisher Field,,Baseball,-66.6165161,45.9677849
+58,C1,City Building,397 Queen Street,City Hall,,City Hall,-66.6430969,45.9634361
+59,F4,Fire Department,27 Royal Road,Station 4 ,,Fire Department,-66.6647186,45.9854622
+60,F3,Fire Department,800 Kimble Drive,Station 3,,Fire Department,-66.6337051,45.9262695
+61,F1,Fire Department,520 York Street,Station 1,,Fire Department,-66.6501617,45.9539833
+62,F2,Fire Department,500 Two Nations Crossing,Station 2,,Fire Department,-66.6158524,45.9831772
+63,N1,Police,30 Hughes Street,NAT North Office,,Neighbour Office,-66.6313324,45.9702644
+64,N2,Police,623 McLeod Avenue,NAT South Office,,Neighbour Office,-66.6436081,45.9542465
+65,N3,Police,150 Cliffe Street,St. Mary's Neighbourhood Office,,Neighbour Office,-66.6308289,45.9720078
+66,P1,Police,311 Queen Street,Police Headquarters,,Police Headquarters,-66.6447601,45.9639816
+67,B25,Recreation Facility,324 Fulton Avenue,Field House,,Field House,-66.6434555,45.9854164
+68,999,Parking Facility,209 Queen Street,Upper Queen Lot,,Parking Lot,-66.6472397,45.9649582
+69,998,Parking Facility,1 York Street,York Lot,,Parking Lot,-66.6423035,45.9639587
+70,997,Parking Facility,533 Brunswick Street,Brunswick Street Parking Garage,,Parking Garage,-66.6414719,45.9599762
+71,996,Parking Facility,235 King Street,Frederict Square,,Parking Garage,-66.6467972,45.9638786
+72,995,Parking Facility,635 King Street,King Street Parking Garage,,Parking Garage,-66.6384354,45.9600677
+73,994,Tourism,397 Queen Street,Tourist Information,,Tourist Information,-66.6431503,45.9633369
+75,993,Recreation Facility,1145 Prospect Street,FHS Mini Field,,Sports Field,-66.6653824,45.9412918
+76,991,Recreation Facility,1145 Prospect Street,FHS Practice Field,,Sports Field,-66.6660919,45.9424171
+77,992,Recreation Facility,1145 Prospect Street,FHS Soccer Field,,Sports Field,-66.6652222,45.9421349
+78,989,Recreation Facility,300 Priestman Street,"FHS Game Field
+FHS Game Field
+",,Sports Field,-66.6652679,45.9434586
+79,990,Recreation Facility,300 Priestman Street,FHS Rugby Field,,Sports Field,-66.6642227,45.9431000
+80,,Recreation Facility,300 Priestman Street,FHS Tennis Courts,,Tennis Courts,-66.6627884,45.9428902
+81,,Recreation Facility,300 Priestman Street,Fredericton High School,,Basketball,-66.6624908,45.9427719
+82,,Parks and Open Space,86 Beechwood Crescent,Beechwood Crescent Park,,Park,-66.6661301,45.9477768
+83,,Recreation Facility,150 Massey Street,Massey Street Wading Pool,,Wading Pool,-66.6641159,45.9470558
+84,,Parks and Open Space,150 Massey Street,Massey Street Park,,Park,-66.6635132,45.9468155
+85,,Parks and Open Space,715 Priestman Street,École Sainte-Anne Playground,,Park,-66.6505356,45.9420395
+86,,Recreation Facility,715 rue Priestman,ESA Field  - École Sainte-Anne,,Sports Field,-66.6528854,45.9431877
+87,,Parks and Open Space,660 Regent Street,Regent Street Park,,Park,-66.6477585,45.9503136
+88,,Recreation Facility,265 Waterloo Row,Morrell Green 1,,Sports Field,-66.6327209,45.9491348
+89,,Recreation Facility,265 Waterloo Row,Morrell Green 2,,Sports Field,-66.6326218,45.9500122
+90,,Recreation Facility,411 University Avenue,Lady Beaverbrook Arena,,Arena,-66.6388779,45.9508133
+91,,Recreation Facility,780 Aberdeen Street,Queen Square Park,,Basketball,-66.6395111,45.9534264
+92,,Recreation Facility,780 Aberdeen Street,Queen Square Tennis Courts,,Tennis Courts,-66.6398163,45.9535675
+93,,Parks and Open Space,740 Aberdeen Street,Queen Square Park,,Park,-66.6402664,45.9537163
+94,,Parks and Open Space,363 Priestman Street,Priestman Street Elementary Playground,,Park,-66.6599045,45.9431152
+95,,Parks and Open Space,15 Islandview Drive,Island View Park,,Park,-66.7649689,45.9621277
+96,,Recreation Facility,35 Hummingbird Court,Hummingbird St. Courts,,Tennis Courts,-66.7657700,45.9645882
+97,,Parks and Open Space,100 Selkirk Crescent,Rosewood Estates,,Park,-66.7180939,45.9643440
+98,,Parks and Open Space,210 Coburn Court,Coburn Court Park,,Park,-66.6939316,45.9639015
+99,,Parks and Open Space,29 Eagle Court,Eagle/Birdie Park,,Park,-66.6789093,45.9601936
+100,984,Recreation Facility,111 Park Street,Park Street Field,,Sports Field,-66.6468964,45.9817543
+101,,Recreation Facility,9 Saunders Street,Wilmot Park Tennis Courts,,Tennis Courts,-66.6573868,45.9634781
+102,,Recreation Facility,20 Cityview Avenue,Fredericton Loyalists Rugby,,Beach Vollyball,-66.6493454,45.9727440
+103,988,Recreation Facility,129 McAdam Avenue,McAdam Avenue Field,,Sports Field,-66.6778946,45.9814262
+104,,Parks and Open Space,51 Kent Street,Kent Street Park,,Park,-66.6851196,45.9792099
+105,,Seniors Centre,110 Johnston Avenue,Johnston Avenue Seniors Centre,,Seniors Centre,-66.6601181,45.9794846
+106,,Recreation Facility,499 Cliffe Street,Leo Hayes Front Field,,Sports Field,-66.6233063,45.9775772
+107,,Parks and Open Space,199 Longwood,Park Street Park,,Park,-66.6455841,45.9810371
+108,,Recreation Facility,681 Dobie Street,Devon Sports Field,,Sports Field,-66.6252136,45.9675446
+109,,Parks and Open Space,Robinson Drive,Robinson Drive Park,,Park,-66.6669693,45.9806480
+110,,Parks and Open Space,33 Royal Road,Royal Road Park,,Park,-66.6675797,45.9859886
+111,,Parks and Open Space,15 Adney Street,Adney Street Park,,Park,-66.6713409,45.9799843
+112,,Parks and Open Space,580 Hillcrest Drive,Hillcrest Drive Park,,Park,-66.6268921,45.9722672
+113,,Parks and Open Space,158 McGregor Street,McGregor Street Park,,Park,-66.7180786,45.9804344
+114,,Recreation Facility,605 Cliffe Street,Willie O'Ree Place,,Arena,-66.6172333,45.9794540
+115,,Parks and Open Space,51 Neville Street,Neville Street Park,,Park,-66.6626663,45.9872780
+116,,Recreation Facility,129 McAdam Avenue,McAdam Avenue Tennis Courts,,Tennis Courts,-66.6761246,45.9822311
+117,,Recreation Facility,51 Kent Street,Kent Street Park Wading Pool,,Wading Pool,-66.6845551,45.9787598
+118,,Recreation Facility,15 Islandview Drive,Island View Park,,Wading Pool,-66.7665634,45.9622841
+119,,Recreation Facility,306 Union Street,Riverside Park Wading Pool,,Wading Pool,-66.6415482,45.9732895
+120,,Recreation Facility,1360 Wodstock Road,Garden Creek Elementary Courts,,Tennis Courts,-66.7025223,45.9647026
+121,,Recreation Facility,267 Adams Street,Lincoln Field,,Sports Field,-66.5933762,45.9078102
+122,,Parks and Open Space,1900 Lincoln Road,Lincoln Park,,Park,-66.5796661,45.9039192
+123,,Parks and Open Space,245 Adams Street,Lincoln Heights Park,,Park,-66.5929794,45.9089966
+124,,Parks and Open Space,10 Westbett Street,Case Street Park,,Park,-66.5957718,45.9182587
+125,,Parks and Open Space,77 Rochester Street,Leeds Street Park,,Park,-66.6434250,45.9344254
+126,,Parks and Open Space,90 Foster Street,LaPointe Street Park,,Park,-66.5947952,45.9757423
+127,,Parks and Open Space,50 Liverpool Street,Liverpool School Park* / Canterbury Drive Park,,Park,-66.6415787,45.9316101
+128,,Recreation Facility,605 Kimble Drive,Kimble Tennis Courts,,Tennis Courts,-66.6320038,45.9300919
+129,,Parks and Open Space,100 Murray Avenue,Murray Avenue Park,,Park,-66.6083374,45.9720688
+130,,Recreation Facility,Kimble Court,Kimble Drive Skateboard Park,,Skateboard,-66.6308441,45.9302940
+131,,Parks and Open Space,33 Charles Avenue,Charles Avenue Park,,Park,-66.6160736,45.9555321
+132,,Parks and Open Space,605 Kimble Drive,Kimble Drive Park,,Park,-66.6323776,45.9304657
+133,,Parks and Open Space,19 Dewitt Acres,Dewitt Acres Park,,Park,-66.5947495,45.9510002
+134,,Recreation Facility,53 Carman Avenue,Barker's Point Tennis Courts,,Tennis Courts,-66.6177444,45.9517479
+135,,Parks and Open Space,100 Reading Street,Reading Street Park,,Park,-66.6452942,45.9359741
+136,,Parks and Open Space,59 Dover Crescent,Dover Crescent Park,,Park,-66.6450348,45.9317360
+137,,Parks and Open Space,548 Forest Hill Road,Forest Hill Elementary Playground,,Park,-66.6324158,45.9361916
+138,,Parks and Open Space,60 Cambridge Crescent,Cambridge Crescent Park,,Park,-66.6378937,45.9344711
+139,,Parks and Open Space,51 Timber Lane,Timber Lane Park,,Park,-66.6064911,45.9366455
+140,,Parks and Open Space,83 London Court,London Court Park,,Park,-66.6383133,45.9269295
+141,,Parks and Open Space,59 Stoneybrook Crescent,Stoneybrook Park,,Park,-66.6281433,45.9274445
+142,,Parks and Open Space,157 Limerick Road,Limerick Road Park,,Park,-66.6248245,45.9228096
+143,,Parks and Open Space,Noble Street,Malloy Park,,Park,-66.6138306,45.9676285
+144,,Recreation Facility,50 Liverpool,Skyline Field,,Sports Field,-66.6413193,45.9310951
+145,,Recreation Facility,53 Carman Avenue,Barker's Point Field,,Sports Field,-66.6168976,45.9519310
+146,,Recreation Facility,605 Kimble Drive,Kimble Sports Field,,Sports Field,-66.6330261,45.9294052
+147,,Recreation Facility,157 Limerick Road,Limerick Park,,Basketball,-66.6258240,45.9233742
+148,,Recreation Facility,267 Adams Street,Lincoln Heights Park,,Basketball,-66.5936050,45.9074287
+149,,Recreation Facility,605 Kimble Drive,Kimble Drive Park,,Basketball,-66.6337967,45.9298439
+150,,Recreation Facility,53 Carman Avenue,Barker's Point School,,Basketball,-66.6178207,45.9518890
+151,,Recreation Facility,77 Rochester Street,Rochester Street Courts,,Tennis Courts,-66.6432877,45.9341469
+152,,Recreation Facility,157 Limerick Street,Limerick/Southwood ParkTennis Courts,,Tennis Courts,-66.6259079,45.9231987
+153,,Recreation Facility,61 Carman Avenue,Barkers Point Wading Pool,,Wading Pool,-66.6177292,45.9515724
+154,,Recreation Facility,15 Woodbridge Avenue,Woodbridge Avenue Wading Pool,,Wading Pool,-66.6334686,45.9351196
+155,,Recreation Facility,157 Limerick Road,Southwood Wading Pool,,Wading Pool,-66.6243820,45.9227104
+156,,Recreation Facility,245 Adams Street,Lincoln Heights Wading Pool,,Wading Pool,-66.5926666,45.9093742
+157,,Parks and Open Space,1670 St. Marys Street,Killarney Lake Park,,Park,-66.6289368,46.0168304
+158,,Recreation Facility,1600 St. Marys Street,Kilarney Lake Lodge,,Community Center,-66.6286774,46.0140800
+159,,Parks and Open Space,16 McKinley Street,McKinley Street Park,,Park,-66.5794449,45.9993172
+160,,Parks and Open Space,Clayton Street,Clayton Street Park,,Park,-66.5871048,45.9922104
+161,,Parks and Open Space,59 Cowperthwaite Street,Cowperthwaite Street Park,,Park,-66.5908203,45.9887428
+162,,Recreation Facility,31 Downing Street,Downing Street Park,,Basketball,-66.5858688,45.9813957
+163,,Parks and Open Space,27 Downing Street,Downing Street Park,,Park,-66.5864105,45.9812164
+164,987,Recreation Facility,12 Randolph Street,Stairs Field,,Sports Field,-66.6524429,45.9980812
+165,,Parks and Open Space,12 Randolph Street,Randolph Street Park,,Park,-66.6529160,45.9983940
+166,,Parks and Open Space,14 Mannington Lane,Mannington Lane Park,,Park,-66.6416855,45.9892235
+167,,Parks and Open Space,199 Crocket Street,Crocket Street Park,,Park,-66.6016922,45.9807396
+168,985,Recreation Facility,320 Fulton Avenue,Nashwaaksis Middle (Middle Field),,Sports Field,-66.6459503,45.9863892
+169,986,Recreation Facility,320 Fulton Avenue,Nashwaaksis Middle (Lower Field),,Sports Field,-66.6471558,45.9865532
+170,984,Recreation Facility,320 Fulton Avenue,Nashwaaksis Middle (Upper Field),,Sports Field,-66.6447296,45.9860077
+171,,Recreation Facility,324 Fulton Avenue,Nashwaaksis Middle School,,Basketball,-66.6444244,45.9848862
+172,,Parks and Open Space,155 Barton Crescent,Barton Crescent Park,,Park,-66.6623230,45.9916725
+173,,Parks and Open Space,50 Evens Street,Evens Street Park,,Park,-66.6395645,45.9832191
+174,,Recreation Facility,324 Fulton Avenue,Nashwaaksis Middle Tennis Courts,,Tennis Courts,-66.6448135,45.9847870
+175,,Recreation Facility,80 Main Street,Nashwaaksis Memorial Tennis Courts,,Tennis Courts,-66.6609650,45.9805222
+176,,Recreation Facility,241 Canada Street,Marysville School,,Tennis Courts,-66.5945969,45.9777107
+177,,Recreation Facility,199 Longwood Drive,Park Street Park Wading Pool,,Wading Pool,-66.6454086,45.9813118
+178,,Recreation Facility,605 Cliffe Street,Fredericton Beach Volleyball,,Beach Vollyball,-66.6183548,45.9801903
+179,,Recreation Facility,120 Main Street,Nashwaaksis Commons,,Commons,-66.6571808,45.9794044
+180,,Cenotaph,250 Canada Street,Marysville Cenotaph,,Cenotaph,-66.5922928,45.9785614
+181,,Parks and Open Space,340 Royal Road,Royal Road Elementary Playground,,Park,-66.6702728,45.9971161
+182,,Recreation Facility,79 Carrington Lane,Fredericton Indoor Pool,,Indoor Pool,-66.6430206,45.9859314
+183,,Recreation Facility,499 Cliffe Street,Leo Hayes Back Field 1,,Sports Field,-66.6205521,45.9800606
+184,,Recreation Facility,248 Medley Street,Henry Park Outdooor Pool,,Outdoor Pool,-66.6203079,45.9651527
+185,,Parks and Open Space,248 Medley Street,Henry Park,,Park,-66.6199722,45.9648323
+186,,Parks and Open Space,370 Rookwood Avenue,Odell Park,,Park,-66.6627960,45.9566345
+187,,Recreation Facility,Sewell Street,Henry Park Tennis Courts,,Tennis Courts,-66.6221085,45.9642448
+188,,Recreation Facility,891 Barker Street,York Arena,,Arena,-66.6198425,45.9612465
+189,,Parks and Open Space,306 Union Street,Riverside Park,,Park,-66.6412048,45.9731560
+190,,Recreation Facility,930 Barker Street,Barker Street Field,,Sports Field,-66.6193237,45.9584007
+191,,Recreation Facility,63 Brunswick Street,Small Craft Aquatic Centre,,Small Craft Aquatic Centre,-66.6517715,45.9660683
+192,,Recreation Facility,30 Woodstock Road,Wilmot Park Wading Pool,,Wading Pool,-66.6554718,45.9644051
+193,,Parks and Open Space,30 Woodstock Road,Wilmot Park,,Park,-66.6558533,45.9629135
+194,,Recreation Facility,9 Saunders Street,Wilmot Park,,Basketball,-66.6580505,45.9630394
+195,,Recreation Facility,15 Saunders Street,Fredericton Lawn Bowling Club,,Lawn Bowling,-66.6573792,45.9627991
+196,,Recreation Facility,385 Smythe Street,Fredericton Exhibition Sports Field 1,,Sports Field,-66.6580353,45.9613533
+197,,Parks and Open Space,250 Cherry Avenue,Cherry Avenue Park,,Park,-66.6537247,45.9820099
+198,,Parks and Open Space,451 Fulton Avenue,Sierra Drive Park,,Park,-66.6483917,45.9877281
+199,,Parks and Open Space,740 Aberdeen Street,Queen Square Outdoor Pool,,Park,-66.6407166,45.9537773
+200,,Parks and Open Space,Hughes Street,Hughes Street Park,,Park,-66.6310349,45.9704933
+201,994,Tourism,397 Queen Street,Tourist Information,,Tourist Information,-66.6431503,45.9633369
+202,,Parks and Open Space,25 Manressa Drive,Willis Street Park,,Park,-66.6686020,45.9835587
+203,,Parks and Open Space,41 Reading Street,Gloucester Crescent Park,,Park,-66.6435394,45.9362297
+204,,Cemetery,Salamenka Trail,Loyalist Cemetery,,Cemetery,-66.6327133,45.9454498
+205,B2,Recreation Facility,51 Downing Street,Downing Street Park Outdoor Rink,,Outdoor Rink,-66.5862274,45.9824448
+206,,Parks and Open Space,120 Main Street,Nashwaaksis Commons,,Park,0.0000000,0.0000000
+207,,Recreation Facility,499 Cliffe Street,Leo Hayes Back Field 2,,Sports Field,-66.6215744,45.9806519
+208,,Recreation Facility,15 Saunders Street,Fredericton Lawn Bowling Club,,Lawn Bowling,0.0000000,0.0000000
+209,,Recreation Facility,590 Knowledge Park Drive,Knowledge Park Drive Artificial-turf Field,,Sports Field,-66.6444931,45.9235191
+210,,Recreation Facility,248 Medley Street,Henry Park,,Basketball,-66.6199417,45.9645462
+211,,Recreation Facility,20 Cityview Avenue,Fredericton Loyalists Rugby,,Rugby,-66.6497345,45.9735107
+212,,Recreation Facility,30 Cityview Avenue,Cityview Dog Park,,Dog Park,-66.6473236,45.9731064
+213,,Recreation Facility,600 Knowledge Park Drive,Grant-Harvey Centre,,Arena,-66.6421356,45.9257736
+214,,Recreation Facility,39 Harrison Court,Marysville Outdoor Pool,,Outdoor Pool,-66.5950394,45.9781494
+215,,Cenotaph,1 Riverside Drive,Barkers Point Cenotaph Area,,Cenotaph,-66.6226883,45.9539871
+216,,Parks and Open Space,800 Union Street,Carleton Park,,Park,-66.6255646,45.9609795
+217,,Cenotaph,800 Queen Street,Queen Street Cenotaph,,Cenotaph,-66.6346588,45.9582176
+219,,Parks and Open Space,1071 Woodstock Road,Angelview Park,,Park,-66.6918640,45.9664764
+220,,Preserve,Victory Avenue,Hyla Park Preserve,,Preserve,-66.6114044,45.9502449
+221,,Parks and Open Space,127A Melvin Street,Melvin Street Park,,Park,-66.6395187,45.9806519
+222,,Cemetery,113 Jewett Street,York County Municipal Home Cemetery,,Cemetary,-66.6862793,45.9799347
+223,S17,Cemetery,500 Brunswick Street,Old Burying Ground,Cemetery,Cemetery,-66.6431274,45.9597054
+224,,Recreation Facility,385 Smythe Street,Fredericton Exhibition Sports Field 2,,Sports Field,-66.6588135,45.9604225
+225,,Recreation Facility,385 Smythe Street,Fredericton Exhibition Raceway,,Race Track,-66.6575699,45.9605865
+226,,Recreation Facility,1670 St. Marys Street,Kilarney Lake Beach,,Public Beach,-66.6282806,46.0162773
+227,B1,Recreation Facility,39 Royal Road,Royal Road,Baseball,Outdoor Pool,-66.6663513,45.9862633
+228,,Recreation Facility,800 Union Street,Carleton Park,,Boat Launch,-66.6269531,45.9615822
+229,,Recreation Facility,605 Cliffe Street,Northside Youth Centre,,Skateboard,-66.6177597,45.9790611
+230,,Recreation Facility,Sewell Street,Henry Park Tennis Courts,,Skateboard,-66.6219101,45.9643288
+231,S24,Recreation Facility,577 Queen Street,Officers Square,College,Outdoor Rink,-66.6389694,45.9616508
+232,,Recreation Facility,1670 St. Marys Street,Kilarney Lake,,Outdoor Rink,-66.6283417,46.0153198
+233,,Recreation Facility,1360 Wodstock Road,Garden Creek Elementary,,Outdoor Rink,-66.7043533,45.9643059
+234,,Recreation Facility,370 Rookwood Avenue,Odell Park,,Outdoor Rink,-66.6631241,45.9563942
+235,,Recreation Facility,780 Aberdeen Street,Queen Square Tennis Courts,,Outdoor Rink,-66.6399918,45.9532738
+236,,Recreation Facility,Sewell Street,Henry Park,,Outdoor Rink,-66.6225510,45.9644966
+237,S7,Recreation Facility,129 McAdam Avenue,McAdam Avenue Elementary,Elementary,Outdoor Rink,-66.6763763,45.9822235
+238,988,Parks and Open Space,129 McAdam Avenue,McAdam Avenue Elemtary,,Park,-66.6770096,45.9820023
+239,,Recreation Facility,267 Adams Street,Lincoln Field,,Outdoor Rink,-66.5931702,45.9079895
+240,,Recreation Facility,15 Islandview Drive,Island View Park,,Outdoor Rink,-66.7659836,45.9623146
+241,,City Maintenance,470 Saint Marys Street,Northside Depot,, Maintenance Depot,-66.6319427,45.9831810
+242,,City Maintenance,1581 Regent Street,Southside Depot,, Maintenance Depot,-66.6661682,45.9290123
+243,,Educational Facility,67 Wyngate Drive,Gibson-Neill Memorial Elementary School,Elementary,School,-66.6065521,45.9804764
+244,,Educational Facility,305 Maliseet Dr.,Chief Harold Sappier Memorial Elementary School,Elementary,School,-66.6274948,45.9796524
+245,,Educational Facility,615 Kimble Dr,Bliss Carman Middle School,Middle,School,-66.6334229,45.9306221
